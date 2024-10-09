@@ -1,0 +1,36 @@
+.failure-view-container {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  width: 40%;
+  margin-bottom: 20px;
+}
+
+.retry {
+  background-color: #4656a1;
+  width: 120px;
+  height: 40px;
+  border: 0 solid;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #fff;
+}
+
+.oops-heading {
+  font-family: 'Roboto';
+  font-size: 36px;
+  color: #475569;
+}
+
+.oops-para {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+  margin-bottom: 20px;
+}
